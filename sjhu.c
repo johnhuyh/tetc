@@ -1,0 +1,1 @@
+fatal: unable to access 'https://github.com/johnhuyh/tetc.git/' : OpenSSL SSL_read : Connection was reset, errno 10054
